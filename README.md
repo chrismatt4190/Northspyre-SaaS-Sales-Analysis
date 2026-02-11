@@ -12,7 +12,7 @@
         </p>
 <br>
          <p>
-MLT’s Talent Pipeline supports thousands of candidates annually across multiple programs, managing a large and growing ecosystem of applicants, fellows, institutional partners, and hiring organizations. The underlying data spans the full talent lifecycle, including candidate demographics, academic background, application and admissions funnel stages, program engagement. This data enables MLT to operate as a two-sided marketplace—balancing candidate readiness with employer demand—while continuously optimizing recruitment, selection, and placement strategies.<br>
+Northspyre shared over a dataset the represents their end-to-end B2B sales pipeline at the individual deal level, capturing how potential customers enter the funnel, how sales teams engage them, and how those engagements ultimately convert into closed-won or closed-lost outcomes. Each row corresponds to a single sales opportunity and includes information about lead source and type, assigned sales representatives and business development leads, sales activities and outreach intensity, demo execution, deal value, timing from creation to close, and contextual attributes such as buyer role, seniority, motivations, territory, and existing software. <br>
             </p>
 <br>
          </p>

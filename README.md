@@ -53,7 +53,7 @@ Reporting to Northspyre’s Head of Sales and Head of Partnerships, an in-depth 
     <td width="460" valign="top">
       <ol start="4">
         <li>
-          <strong>Monthly Qualified Lead Conversion Rate</strong>
+          <strong>(REMOVE SECTION) Monthly Qualified Lead Conversion Rate</strong>
           <ul>
             <li>Percentage of qualified leads converting to Closed-Won in a given month.</li>
             <li>Early warning indicator of funnel friction or quality decline.</li>
@@ -69,14 +69,14 @@ Reporting to Northspyre’s Head of Sales and Head of Partnerships, an in-depth 
 <table align="center">
   <tr>
     <div width="1440">
-      <h2 align="center">LEAD GENERATION ANALYSIS (January 2023 - January 2026)</h2>
+      <h2 align="center">DEAL VOLUME ANALYSIS (January 2021 - January 2022)</h2>
 <div align="center">
   <img
     width="688"
     height="339"
     alt="Screenshot 2026-01-15 at 4 53 12 PM"
-    src="https://github.com/user-attachments/assets/48b4520a-42ad-40d3-8a3d-f807c0a87a60"
-  />
+    src="https://github.com/user-attachments/assets/b2c507a8-583b-469e-9a21-3f6a7bfff192" />
+
 </div>
      <!-- LEFT COLUMN -->
     <td width="460" valign="top">

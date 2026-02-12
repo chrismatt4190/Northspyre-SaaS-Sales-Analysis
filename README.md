@@ -72,8 +72,8 @@ Reporting to Northspyre’s Head of Sales and Head of Partnerships, an in-depth 
       <h2 align="center">DEAL VOLUME ANALYSIS (January 2021 - October 2022)</h2>
 <div align="center">
   <img
-    width="688"
-    height="339"
+    width="1000"
+    height="800"
     alt="Screenshot 2026-01-15 at 4 53 12 PM"
     src="https://github.com/user-attachments/assets/b2c507a8-583b-469e-9a21-3f6a7bfff192" />
 

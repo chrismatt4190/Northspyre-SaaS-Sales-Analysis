@@ -25,24 +25,27 @@ Reporting to Northspyre’s Head of Sales and Head of Partnerships, an in-depth 
     <td width="460" valign="top">
       <ol>
         <li>
-          <strong>Qualified Leads Generated (QLG)</strong>
+          <strong>Deal Volume & Revenue Performance</strong>
           <ul>
-            <li>Total qualified leads generated per month and cycle.</li>
-            <li>Primary indicator of pipeline health and acquisition scale.</li>
+            <li>Monthly Deal Volume Trends</li>
+            <li>Monthly Revenue Trends</li>
+             <li>Revenue Contribution by Deal Owner</li>
           </ul>
         </li>
         <li>
-          <strong>10-Day Lead-to-Win Conversion Rate</strong>
+          <strong> Funnel Conversion & Deal Velocity</strong>
           <ul>
-            <li>Percentage of qualified leads converting to Closed-Won within 10 days.</li>
-            <li>Core predictor of overall funnel success and lead quality.</li>
+            <li>Closed-Won Conversion Rate Over Time</li>
+            <li>Time to Close (Sales Cycle Length)</li>
+            <li>Win Rate by Lead Type</li>
           </ul>
         </li>
         <li>
-          <strong>Channel Source Conversion Rate</strong>
+          <strong>Lead Mix & Source Effectiveness</strong>
           <ul>
-            <li>Conversion rate of leads generated through MLT priority channels.</li>
-            <li>Highest-performing channel by speed and efficiency.</li>
+            <li>Lead Type Market Share</li>
+            <li>Revenue by Lead Source</li>
+            <li>Sales Effort by Lead Source</li>
           </ul>
         </li>
       </ol>

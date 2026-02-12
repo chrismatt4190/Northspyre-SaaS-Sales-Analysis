@@ -16,7 +16,7 @@ Northspyre shared over a dataset the represents their end-to-end B2B sales pipel
             </p>
 <br>
          </p>
-Reporting to senior leadership within Strategy and Operations, an in-depth analysis was conducted to evaluate the performance of the MLT Talent Pipeline over recent program cycles. This analysis is designed to surface actionable insights that cross-functional teams—including Recruitment & Admissions, Employer Partnerships, Program Delivery, and Data & Analytics—can leverage to improve pipeline efficiency, increase conversion and placement outcomes, and support sustainable, scalable growth. The key insights and recommendations focus on the following areas:
+Reporting to Northspyre’s Head of Sales and Head of Partnerships, an in-depth analysis was conducted using Northspyre’s deal-level sales pipeline data to evaluate commercial performance across lead sources, sales execution, and revenue outcomes. This comprehensive review provides actionable insights that Sales and Partnerships leaders can use to refine go-to-market strategy, improve pipeline efficiency, and strengthen revenue predictability. The key insights and recommendations presented in this discussion focus on three core areas:
  </p>
 ## Northstar Metrics
 

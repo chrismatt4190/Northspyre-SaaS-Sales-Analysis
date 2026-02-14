@@ -97,6 +97,9 @@ Reporting to Northspyre’s Head of Sales and Head of Partnerships, an in-depth 
             <li>
               <strong>August 2022</strong> marked the peak deal volume in the analysis window, signaling the strongest period of pipeline expansion.
             </li>
+            <li>
+              Overall deal creation remained stable with no sustained declines, indicating resilience in top-of-funnel activity.
+            </li>
           </ul>
         </li>
       <li>

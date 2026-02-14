@@ -103,16 +103,13 @@ Reporting to Northspyre’s Head of Sales and Head of Partnerships, an in-depth 
           </ul>
         </li>
       <li>
-          <strong>Emerging Decline in Cycle Ending 2026</strong>
+          <strong>Revenue Growth and Volatility</strong>
           <ul>
             <li>
-              The cycle ending 2026 shows a sustained decline in lead generation,
-              particularly in <strong>September, November, and December</strong>.
+              Revenue showed one clear period of sustained growth from <strong>March–July 2021</strong>, reflecting improved deal conversion and/or larger deal sizes.</strong>
             </li>
             <li>
-              <strong>November experienced the largest cycle-over-cycle drop</strong>,
-              with leads declining from <strong>1,339</strong> (cycle ending 2025)
-              to <strong>745</strong> (cycle ending 2026).
+            	A prolonged revenue decline occurred from <strong> October 2021–January 2022</strong>, indicating sensitivity to deal timing and close dynamics.
             </li>
           </ul>
         </li>

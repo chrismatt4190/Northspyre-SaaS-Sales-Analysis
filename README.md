@@ -111,6 +111,9 @@ Reporting to Northspyre’s Head of Sales and Head of Partnerships, an in-depth 
             <li>
             	A prolonged revenue decline occurred from <strong> October 2021–January 2022</strong>, indicating sensitivity to deal timing and close dynamics.
             </li>
+            <li>
+            	Revenue trends were more volatile than deal volume, suggesting deal quality and execution drive revenue more than pipeline scale alone.
+            </li>
           </ul>
         </li>
       </ol>

@@ -89,15 +89,13 @@ Reporting to Northspyre’s Head of Sales and Head of Partnerships, an in-depth 
     <td width="460" valign="top">
       <ol>
         <li>
-          <strong>Pipeline Growth and Peak Performance</strong>
+          <strong>Deal Volume Growth and Peak Activity</strong>
           <ul>
             <li>
-              The cycle ending 2025 delivered the strongest overall performance, with peak
-              lead generation occurring in <strong>August, November, and January</strong>.
+              Deal volume experienced two sustained growth periods from April – June 2021 and April – August 2022, each with consistent month-over-month increases</strong>.
             </li>
             <li>
-              <strong>August</strong> was the highest-volume month, generating
-              <strong>1,895 new leads</strong>, making it the top-performing period.
+              <strong>August 2022</strong> marked the peak deal volume in the analysis window, signaling the strongest period of pipeline expansion.
             </li>
           </ul>
         </li>

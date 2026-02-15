@@ -146,14 +146,14 @@ Reporting to Northspyre’s Head of Sales and Head of Partnerships, an in-depth 
 <h2 align="center">Dataset Structure and ERD (Entity relationship diagram)</h2>
 <body align="center"> The database structure as seen below consists of One Table of Sales data with a total row count of 5,596 records.</body>
 <div align="center">
-  <img width="250" src="https://github.com/user-attachments/assets/66478ee0-f5d3-41a9-a4fc-da3ddf729363"/>
+  <img width="250" src="https://github.com/user-attachments/assets/60ba85ad-64be-4eb1-8e97-938fde3cec9f" />
 </div>
 <h1 align="center">Insights Deep-Dive</h1>
 <table align="center">
   <tr>
     <h1 align="center">Deal Conversion Analysis</h1>
     <td width="1000">
-      <img width="500" src="https://github.com/user-attachments/assets/9ac4c4c0-f4ec-4ee1-826a-7a04d6c5b68f" />
+      <img width="500" src="https://github.com/user-attachments/assets/a1bfd70f-bf64-4a6a-b5c4-c1f65ccc51f5" />
     </td>
     <td width="1000">
       <img width="500" src="https://github.com/user-attachments/assets/28130659-f7aa-4265-8604-ce03e022c056" />

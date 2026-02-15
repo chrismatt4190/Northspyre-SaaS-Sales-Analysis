@@ -245,53 +245,6 @@ Reporting to Northspyre’s Head of Sales and Head of Partnerships, an in-depth 
     </td>
   </tr>
 </table>
-  <table align="center">
- <tr>
-    <h1 align="center">Qualifed Lead Conversion Analysis</h1>
-    <td width="1000">
-      <img width="500" src="https://github.com/user-attachments/assets/93bfd1dc-824d-467a-9fc8-04c29ec26dd3" />
-    </td>
-    <td width="1000">
-      <img width="500" src="https://github.com/user-attachments/assets/e35779fa-4589-45ab-945d-1a0db4e2f03b" />
-</table>
-<table>
-  <tr>
-    <td>
-      <ol>
-        <li>
-          <strong>Sustained decline in qualified lead conversion</strong>
-          <ul>
-            <li>
-              Across the 2025–2026 cycle, an average of <strong>~44% of qualified leads</strong>
-              converted to Closed-Won in any given month across regions, indicating
-              moderate baseline conversion performance.
-            </li>
-          </ul>
-        </li>
-        <li>
-          <strong>Sharp month-over-month deterioration beginning in Fall 2025</strong>
-          <ul>
-            <li>
-              Conversion rates declined materially from <strong>September 2025 through January 2026</strong>.
-              After peaking at approximately <strong>69% in August 2025</strong>, qualified lead
-              conversion steadily fell to <strong>~21% by January 2026</strong>.
-            </li>
-          </ul>
-        </li>
-        <li>
-          <strong>Conversion performance is consistent across regions</strong>
-          <ul>
-            <li>
-              Regional conversion rates remain relatively stable—generally ranging between
-              <strong>~41% and ~47%</strong>—suggesting the decline is driven by
-              <strong>temporal or funnel-level dynamics</strong> rather than regional execution differences.
-            </li>
-          </ul>
-        </li>
-      </ol>
-    </td>
-  </tr>
-</table>
 <h2 align="center">Recommendations</h2>
 
 <table align="center" width="100%">

@@ -144,16 +144,16 @@ Reporting to Northspyre’s Head of Sales and Head of Partnerships, an in-depth 
     </td>
       </table>
 <h2 align="center">Dataset Structure and ERD (Entity relationship diagram)</h2>
-<body>The database structure as seen below consists of four tables: Talent Upload History,Talent Details with a total row count of 228,572 records.</body>
+<body>The database structure as seen below consists of One Table of Sales data with a total row count of 5,596 records.</body>
 <div align="center">
-  <img width="680" src="https://github.com/user-attachments/assets/e9f03b54-94e8-4bb7-be1f-0e4323f254a0" />
+  <img width="500" src="https://github.com/user-attachments/assets/66478ee0-f5d3-41a9-a4fc-da3ddf729363"/>
 </div>
 <h1 align="center">Insights Deep-Dive</h1>
 <table align="center">
   <tr>
     <h1 align="center">Channel Source Attribution Analysis</h1>
     <td width="1000">
-      <img width="500" src="https://github.com/user-attachments/assets/d8e585d0-44f6-4aa7-a38e-bfc4319617a9" />
+      <img width="250" src="https://github.com/user-attachments/assets/d8e585d0-44f6-4aa7-a38e-bfc4319617a9" />
     </td>
     <td width="1000">
       <img width="500" src="https://github.com/user-attachments/assets/28130659-f7aa-4265-8604-ce03e022c056" />

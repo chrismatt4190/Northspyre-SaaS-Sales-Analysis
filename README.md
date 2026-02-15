@@ -151,7 +151,7 @@ Reporting to Northspyre’s Head of Sales and Head of Partnerships, an in-depth 
 <h1 align="center">Insights Deep-Dive</h1>
 <table align="center">
   <tr>
-    <h1 align="center">Deal Conversion Analysis</h1>
+    <h1 align="center">Funnel Conversion & Deal Velocity</h1>
     <td width="1000">
       <img width="500" src="https://github.com/user-attachments/assets/a1bfd70f-bf64-4a6a-b5c4-c1f65ccc51f5" />
     </td>

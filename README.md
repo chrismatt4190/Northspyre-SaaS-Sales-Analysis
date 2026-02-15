@@ -174,14 +174,13 @@ Reporting to Northspyre’s Head of Sales and Head of Partnerships, an in-depth 
           </ul>
         </li>
         <li>
-          <strong>Primary lead drivers (2023–2026)</strong>
+          <strong>Lead Source Mix Shift: Sales vs. Marketing Driven</strong>
           <ul>
             <li>
-              From 2023 to 2026, lead generation has been consistently concentrated across three channels:
+             	<strong>Marketing-driven leads have steadily increased their share of top-of-funnel marketshare</strong>, indicating growing effectiveness of organic and inbound marketing efforts.
             </li>
-            <li><strong>Referrals</strong> (~40% of total leads)</li>
-            <li><strong>Social Media</strong> (~30% of total leads)</li>
-            <li><strong>Community Partnerships</strong> (~14% of total leads)</li>
+            <li><strong>In Janauary 2021</strong> marketing-driven sources accounted for <strong> ~10% of total leads </strong>, reflecting a sales-heavy acquisition model.</li>
+            <li> <strong>By November 2022</strong>, marketing-driven leads grew to <strong>~28% of total lead generation</strong>, signaling a meaningful shift toward inbound-led growth.</li>
           </ul>
         </li>
         <li>

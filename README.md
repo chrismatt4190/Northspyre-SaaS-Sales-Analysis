@@ -151,9 +151,9 @@ Reporting to Northspyre’s Head of Sales and Head of Partnerships, an in-depth 
 <h1 align="center">Insights Deep-Dive</h1>
 <table align="center">
   <tr>
-    <h1 align="center">Channel Source Attribution Analysis</h1>
+    <h1 align="center">Deal Conversion Analysis</h1>
     <td width="1000">
-      <img width="500" src="https://github.com/user-attachments/assets/d8e585d0-44f6-4aa7-a38e-bfc4319617a9" />
+      <img width="500" src="https://github.com/user-attachments/assets/9ac4c4c0-f4ec-4ee1-826a-7a04d6c5b68f" />
     </td>
     <td width="1000">
       <img width="500" src="https://github.com/user-attachments/assets/28130659-f7aa-4265-8604-ce03e022c056" />

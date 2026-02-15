@@ -122,15 +122,13 @@ Reporting to Northspyre’s Head of Sales and Head of Partnerships, an in-depth 
     <td width="460" valign="top">
       <ol start="3">
         <li>
-          <strong>Quarterly Insights & Seasonal Trends</strong>
+          <strong>Revenue Contribution By Deal Owner</strong>
           <ul>
             <li>
-              Lead generation exhibits clear seasonality, with late summer and early fall
-              consistently driving higher volume across cycles.
+              Peak revenue was largely attributable to contributions from Former AEs / Current Leadership, Former AEs / Current Managers, and Directors currently operating as AEs, highlighting the outsized impact of senior, sales-experienced owners on high-value deal closures.
             </li>
             <li>
-              Performance variability suggests that timing and execution strategy materially
-              influence lead outcomes.
+             A sustained revenue decline from October 2021–January 2022 aligns with a sharp reduction in closed-won deals from Former AEs / Current Managers.
             </li>
           </ul>
         </li>

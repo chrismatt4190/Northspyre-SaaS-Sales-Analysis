@@ -198,46 +198,27 @@ Reporting to Northspyre’s Head of Sales and Head of Partnerships, an in-depth 
     <td>
       <ol>
         <li>
-          <strong>Most qualified leads convert quickly</strong>
+          <strong>Deal Conversion Speed by Lead Type</strong>
           <ul>
             <li>
-              Across the 2025–2026 cycle, approximately <strong>60% of qualified leads</strong>
-              converted to Closed-Won within <strong>10 days</strong>, indicating a strong
-              early-stage conversion window.
+              Deal conversion timelines vary widely, with time-to-close ranging from same-day (0 days) to 419 days, underscoring significant differences in lead readiness and sales effort required.
             </li>
-          </ul>
-        </li>
-        <li>
-          <strong>Delayed conversions face diminishing likelihood</strong>
-          <ul>
             <li>
-              Leads that do not convert within the first 10 days are significantly less
-              likely to close and are more likely to convert after <strong>30+ days</strong>,
-              reflecting extended decision cycles or lower initial intent.
+              <strong>Outbound leads arranged via email</strong> convert the fastest overall, with the highest share of deals closing within 30 days or less, making this the most time-efficient outbound channel.
             </li>
-          </ul>
-        </li>
-        <li>
-          <strong>Events drive the fastest conversions by source</strong>
-          <ul>
             <li>
-              Among lead sourcing channels, <strong>MLT-hosted events and community-partner
-              events</strong> demonstrate the highest conversion efficiency, with approximately
-              <strong>66% of leads converting to Closed-Won within 10 days</strong>.
+              <strong>Outbound leads arranged via phone</strong> represent the second-fastest conversion path, reinforcing the effectiveness of direct, sales-led outreach.
             </li>
-          </ul>
-        </li>
-        <li>
-          <strong>Regional conversion patterns are consistent</strong>
-          <ul>
             <li>
-              Conversion timing is relatively consistent across regions, with all regions
-              showing a majority of Closed-Won deals occurring within the first 10 days.
-              This suggests conversion speed is driven more by <strong>lead quality and source</strong>
-              than by geography.
+              <strong>Former prospect reengagement leads</strong> combine high conversion speed and high win rates, with a majority of deals closing within 30 days, indicating strong buyer intent from previously engaged prospects.
+            </li>
+             <li>
+              Among inbound channels, marketing-driven sources such as blog/website traffic and Google Ads show faster close timelines than organic search and social, suggesting stronger intent signals earlier in the funnel.
+            </li>
+            <li>
+              Slower conversion patterns across other lead types indicate longer nurture cycles, requiring sustained marketing and sales coordination.
             </li>
           </ul>
-        </li>
       </ol>
     </td>
   </tr>

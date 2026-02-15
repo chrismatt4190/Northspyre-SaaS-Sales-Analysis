@@ -165,13 +165,12 @@ Reporting to Northspyre’s Head of Sales and Head of Partnerships, an in-depth 
     <td>
       <ol>
         <li>
-          <strong>>Primary lead drivers (2021–2022)</strong>
+          <strong>Primary lead drivers (2021–2022)</strong>
           <ul>
-            <li>
-              In November 2025, Social Media experienced a significant year-over-year increase in leads (+428).
-              This spike was primarily driven by organic amplification from existing users—particularly reposting
-              and sharing on TikTok—which expanded reach beyond our core audience.
-            </li>
+               <li>Across the analysis period, conversion performance is concentrated among three lead types:</li>
+            <li><strong> Former prospect reengagement leads </strong> (~58% conversion rate)</li>
+            <li><strong> Inbound marketing email leads </strong> (~16% conversion rate)</li>
+            <li><strong> 	Inbound referral leads </strong> (~12% conversion rate)</li>
           </ul>
         </li>
         <li>

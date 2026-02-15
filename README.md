@@ -190,7 +190,6 @@ Reporting to Northspyre’s Head of Sales and Head of Partnerships, an in-depth 
 </table>
 <table align="center">
  <tr>
-    <h1 align="center">Deal Stage Conversion Analysis</h1>
     <td width="1000">
       <img width="500" src="https://github.com/user-attachments/assets/85e8df5f-2109-42d1-a036-a1e6af626826" />
     </td>

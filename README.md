@@ -165,7 +165,7 @@ Reporting to Northspyre’s Head of Sales and Head of Partnerships, an in-depth 
     <td>
       <ol>
         <li>
-          <strong>Social Media spike in Nov 2025</strong>
+          <strong>>Primary lead drivers (2021–2022)</strong>
           <ul>
             <li>
               In November 2025, Social Media experienced a significant year-over-year increase in leads (+428).

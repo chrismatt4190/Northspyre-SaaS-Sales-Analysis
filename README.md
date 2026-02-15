@@ -182,24 +182,6 @@ Reporting to Northspyre’s Head of Sales and Head of Partnerships, an in-depth 
             <li><strong>In Janauary 2021</strong> marketing-driven sources accounted for <strong> ~10% of total leads </strong>, reflecting a sales-heavy acquisition model.</li>
             <li> <strong>By November 2022</strong>, marketing-driven leads grew to <strong>~28% of total lead generation</strong>, signaling a meaningful shift toward inbound-led growth.</li>
           </ul>
-        </li>
-        <li>
-          <strong>Shift in channel mix in 2026</strong>
-          <ul>
-            <li>
-              In 2026, Social Media accounted for approximately 44% of total leads,
-              representing an 11% year-over-year increase.
-            </li>
-          </ul>
-        </li>
-        <li>
-          <strong>Recent performance decline signals strategy risk</strong>
-          <ul>
-            <li>
-              November marked the largest cycle-over-cycle decline observed since 2025,
-              suggesting recent changes to the Social Media strategy may not be growth-oriented
-              and warrant reevaluation.
-            </li>
           </ul>
         </li>
       </ol>

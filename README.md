@@ -138,14 +138,6 @@ Reporting to Northspyre’s Head of Sales and Head of Partnerships, an in-depth 
         <li>
           <strong>Key Takeaways & Recommendations</strong>
           <ul>
-            <li>
-              Investigate the drivers behind the 2026 decline, including potential market shifts,
-              increased competition, or internal process changes.
-            </li>
-            <li>
-              Replicate high-performing strategies from the cycle ending 2025 to stabilize and
-              grow future lead volume.
-            </li>
           </ul>
         </li>
       </ol>

@@ -234,64 +234,16 @@ Reporting to Northspyre’s Head of Sales and Head of Partnerships, an in-depth 
     </td>
   </tr>
 </table>
-<table>
-  <tr>
-    <td>
-      <ol>
-        <li>
-          <strong>Primary lead drivers (2021–2022)</strong>
-          <ul>
-               <li>Across the analysis period, conversion performance is concentrated among three lead types:</li>
-            <li><strong> Former prospect reengagement leads </strong> (~58% conversion rate)</li>
-            <li><strong> Inbound marketing email leads </strong> (~16% conversion rate)</li>
-            <li><strong> 	Inbound referral leads </strong> (~12% conversion rate)</li>
-          </ul>
-        </li>
-        <li>
-          <strong>Lead Source Mix Shift: Sales vs. Marketing Driven</strong>
-          <ul>
-            <li>
-             	<strong>Marketing-driven leads have steadily increased their share of top-of-funnel marketshare</strong>, indicating growing effectiveness of organic and inbound marketing efforts.
-            </li>
-            <li><strong>In Janauary 2021</strong> marketing-driven sources accounted for <strong> ~10% of total leads </strong>, reflecting a sales-heavy acquisition model.</li>
-            <li> <strong>By November 2022</strong>, marketing-driven leads grew to <strong>~28% of total lead generation</strong>, signaling a meaningful shift toward inbound-led growth.</li>
-          </ul>
-          </ul>
-        </li>
-      </ol>
-    </td>
-  </tr>
-</table>
 <table align="center">
- <tr>
-    <td width="500">
-      <img width="500" src="https://github.com/user-attachments/assets/81d0d846-fc32-4611-bfa6-595af79e5209" />
-</table>
-<table>
   <tr>
     <td>
       <ol>
         <li>
-          <strong>Deal Conversion Speed by Lead Type</strong>
+          <strong>Lead Mix By Revenue</strong>
           <ul>
-            <li>
-              Deal conversion timelines vary widely, with time-to-close ranging from same-day (0 days) to 419 days, underscoring significant differences in lead readiness and sales effort required.
-            </li>
-            <li>
-              <strong>Outbound leads arranged via email</strong> convert the fastest overall, with the highest share of deals closing within 30 days or less, making this the most time-efficient outbound channel.
-            </li>
-            <li>
-              <strong>Outbound leads arranged via phone</strong> represent the second-fastest conversion path, reinforcing the effectiveness of direct, sales-led outreach.
-            </li>
-            <li>
-              <strong>Former prospect reengagement leads</strong> combine high conversion speed and high win rates, with a majority of deals closing within 30 days, indicating strong buyer intent from previously engaged prospects.
-            </li>
-             <li>
-              Among inbound channels, marketing-driven sources such as blog/website traffic and Google Ads show faster close timelines than organic search and social, suggesting stronger intent signals earlier in the funnel.
-            </li>
-            <li>
-              Slower conversion patterns across other lead types indicate longer nurture cycles, requiring sustained marketing and sales coordination.
-            </li>
+               <li>Sales-driven outbound channels account for the majority of closed-won revenue, with <strong>Outbound – Arranged via Email </strong> driving the largest share (~38% of total revenue), followed by <strong> Outbound – Arranged via Phone (~28%)</strong>.</li>
+            <li><strong> Marketing-driven inbound referrals </strong> contribute a meaningful share of revenue (~14%), outperforming several higher-effort channels and signaling strong deal quality from partner- and referral-based acquisition.</li>
+            <li><strong>Former prospect reengagement leads </strong> generate a smaller share of total revenue (~8%), despite high conversion rates elsewhere in the funnel—suggesting these deals close quickly but at lower average deal sizes.</li>
           </ul>
       </ol>
     </td>

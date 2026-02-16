@@ -230,7 +230,7 @@ Reporting to Northspyre’s Head of Sales and Head of Partnerships, an in-depth 
       <img width="500" src="https://github.com/user-attachments/assets/020d62cc-d116-4784-a8a4-5dcca4f97ce7" />
     </td>
     <td width="1000" height="200">
-      <img width="500" height="468" src="https://github.com/user-attachments/assets/c7ce575a-2111-4f2f-83f2-4c2b53e71462" />
+      <img width="500" src="https://github.com/user-attachments/assets/8c8213f8-cd0d-4f77-a00f-9d074f950a0c" />
     </td>
   </tr>
 </table>

@@ -239,57 +239,41 @@ Reporting to Northspyre’s Head of Sales and Head of Partnerships, an in-depth 
     <td valign="top">
       <ol>
         <li>
-          <strong>Double Down on High-Revenue, Sales-Led Outbound While Reducing Concentration Risk</strong>
+          <strong>Scale High-Velocity Inbound Pipelines</strong>
           <ul>
             <li>
-              Outbound email and phone outreach drive the majority of closed-won revenue (~65% combined) and convert on average between 125 to 157 days.
+             Prioritize investment in lead types with the fastest deal velocity, specifically Inbound – Former Prospect Re-engagement, Inbound – Google Ads, and Inbound – Blog / Website traffic, as these channels consistently close deals more quickly than other sources.
             </li>
             <li>
-              Formalize these motions into SLA or playbooks (email sequencing, call cadencess, etc.) to preserve performance as volume scales.
-            </li>
-            <li>
-              Reduce dependency on a small subset of high-performing deal owners by stanadardizing best practices from Former AEs / Current Managers and Leadership.
+              Formalize rapid-response workflows for these high-intent leads (e.g., accelerated routing, shorter SLAs, priority rep assignment) to maximize close rates and shorten sales cycles.
             </li>
           </ul>
         </li>
         <li>
-          <strong>Sacle Referral and Partner Channels to Improve Revenue Efficiency</strong>
+          <strong>Scale Revenue Impact by Training Junior AEs</strong>
           <ul>
             <li>
-              Inbound referrals generate ~14% of revenue with fewer touchpoints than many marketing-led channels, indicating strong deal quality.
+              Reduce revenue concentration among a small group of senior deal owners by intentionally up-skilling junior AEs to own and close higher-value opportunities.
             </li>
             <li>
-              Align Partnerships more closely with Sleas by prioritizing referral leads for faster routing and higher-touch follow-up.
+              Codify best practices from Former AEs / Current Managers and Leadership—including deal qualifcation, objection handling, and close strategies—into structured training and playbooks.
+            </li>
+            <li>
+              Pair junior AEs with senior sellers through deal shadowing, co-selling, and post-mortem reviews to accelerate skill transfer and confidence.
             </li>
           </ul>
         </li>
         <li>
-          <strong>Expand Former Prospect Reengagement as a Fast-Close Pipeline Lever</strong>
+          <strong>Scale Referral and Partner Channels to Improve Revenue Efficiency</strong>
           <ul>
             <li>
-              Former prospect reengagement leads show the highest conversion rate (~58%) and fast close timelines, but contribute a smaller share of revenue.
+              Inbound referrals generate ~14% of revenue with fewer touch points than many marketing-led channels, indicating strong deal quality.
             </li>
             <li>
-              Build a systematic reengagement motion by tirggering reactiviation campaigns based on deal age, prior engagement, or product milestones.
+              Align Partnerships more closely with Sales by prioritizing referral leads for faster routing and higher-touch follow-up.
             </li>
           </ul>
         </li>
-        <li>
-          <strong>Use Deal Velocity as a Forecasting Signal</strong>
-          <ul>
-            <li>
-              Time-to-close ranges widely (0-419 days), but fast-closing deals cluster by lead type and source.
-            </li>
-            <li>
-              Prioritize deals likely to close within 30 days for near-term forecasts.
-            </li>
-            <li>
-              Treat long-cycle inbound deals as longer-horizon pipeline with different success metrics.
-            </li>
-            <li>
-              This improves forecast accuracy while helping reps focus effort where it matters most.
-            </li>
-          </ul>
         </li>
           </ul>
         </li>

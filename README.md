@@ -139,10 +139,10 @@ Reporting to Northspyre’s Head of Sales and Head of Partnerships, an in-depth 
   <tr>
     <h1 align="center">Funnel Conversion & Deal Velocity</h1>
     <td width="1000">
-      <img width="500" src="https://github.com/user-attachments/assets/a1bfd70f-bf64-4a6a-b5c4-c1f65ccc51f5" />
+      <img width="500"src="https://github.com/user-attachments/assets/7ec4ddd1-d9fe-4ac8-888f-ae265a753dda" />
     </td>
-    <td width="1000" height="200">
-      <img width="500" height="468" src="https://github.com/user-attachments/assets/c7ce575a-2111-4f2f-83f2-4c2b53e71462" />
+    <td width="1000">
+      <img width="500"src="https://github.com/user-attachments/assets/754a4fbc-f84b-4660-9a4e-6a7d371a8f89" />
     </td>
   </tr>
 </table>

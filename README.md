@@ -278,32 +278,22 @@ Northstar Metrics
           </ul>
         </li>
         <li>
-          <strong>Implement a Fall–Winter Conversion Acceleration Plan</strong>
+          <strong>Use Deal Velocity as a Forecasting Signal</strong>
           <ul>
             <li>
-              Deploy a targeted conversion playbook from September through January,
-              when qualified lead conversion historically declines.
+              Time-to-close ranges widely (0-419 days), but fast-closing deals cluster by lead type and source.
             </li>
             <li>
-              Increase early-stage outreach intensity and refresh messaging to reflect
-              end-of-year urgency and value clarity.
+              Prioritize deals likely to close within 30 days for near-term forecasts.
             </li>
             <li>
-              Monitor conversion performance weekly during this period to enable
-              rapid intervention.
+              Treat long-cycle inbound deals as longer-horizon pipeline with different success metrics.
+            </li>
+            <li>
+              This improves forecast accuracy while helping reps focus effort where it matters most.
             </li>
           </ul>
         </li>
-        <li>
-          <strong>Align Planning to Seasonal Performance</strong>
-          <ul>
-            <li>
-              Use historical seasonality to guide marketing spend, event scheduling,
-              and staffing capacity.
-            </li>
-            <li>
-              Treat peak months as intentional growth windows rather than reactive surges.
-            </li>
           </ul>
         </li>
       </ol>

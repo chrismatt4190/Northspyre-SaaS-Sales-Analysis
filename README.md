@@ -242,7 +242,7 @@ Reporting to Northspyre’s Head of Sales and Head of Partnerships, an in-depth 
           <strong>Double Down on High-Revenue, Sales-Led Outbound While Reducing Concentration Risk</strong>
           <ul>
             <li>
-              Outbound email and phone outreach drive the majority of closed-won revenue (~65% combined) and convert faster than most inbound channels.
+              Outbound email and phone outreach drive the majority of closed-won revenue (~65% combined) and convert on average between 125 to 157 days.
             </li>
             <li>
               Formalize these motions into SLA or playbooks (email sequencing, call cadencess, etc.) to preserve performance as volume scales.

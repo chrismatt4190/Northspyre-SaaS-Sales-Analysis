@@ -2,7 +2,7 @@
 <h1 align="center">SaaS Sales Operations Analysis</h1>
 <table align="center" width="100%">
   <tr>
-    <td width="1440">
+    <td width="100%">
       <h2 align="center">Client Background</h2>
       <body>
       <p>

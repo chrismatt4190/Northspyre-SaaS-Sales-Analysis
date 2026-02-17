@@ -38,25 +38,17 @@ Reporting to Northspyre’s Head of Sales and Head of Partnerships, an in-depth 
             <li>Closed-Won Conversion Rate Over Time</li>
             <li>Time to Close (Sales Cycle Length)</li>
             <li>Win Rate by Lead Type</li>
-          </ul>
-        </li>
-        <li>
-          <strong>Lead Mix & Source Effectiveness</strong>
-          <ul>
-            <li>Lead Type Market Share</li>
-            <li>Revenue by Lead Source</li>
-            <li>Sales Effort by Lead Source</li>
-          </ul>
         </li>
       </ol>
     </td>
     <td width="460" valign="top">
       <ol start="4">
         <li>
-          <strong>(REMOVE SECTION) Monthly Qualified Lead Conversion Rate</strong>
+          <strong>Lead Mix & Source Effectiveness</strong>
           <ul>
-            <li>Percentage of qualified leads converting to Closed-Won in a given month.</li>
-            <li>Early warning indicator of funnel friction or quality decline.</li>
+            <li>Lead Type Market Share</li>
+            <li>Revenue by Lead Source</li>
+            <li>Sales Effort by Lead Source</li>
           </ul>
         </li>
       </ol>

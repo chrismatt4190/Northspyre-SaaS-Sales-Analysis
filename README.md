@@ -72,7 +72,7 @@ Reporting to Northspyre’s Head of Sales and Head of Partnerships, an in-depth 
     width="1000"
     height="800"
     alt="Screenshot 2026-01-15 at 4 53 12 PM"
-    src="https://github.com/user-attachments/assets/9cc03698-121e-4ed8-8fe0-78f0e8c76887" />
+    src="https://github.com/user-attachments/assets/2d34c44a-33a4-48f6-a56c-4540c9b4a773" />
 </div>
      <!-- LEFT COLUMN -->
     <td width="460" valign="top">

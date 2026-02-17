@@ -248,7 +248,7 @@ Northstar Metrics
               Outbound email and phone outreach drive the majority of closed-won revenue (~65% combined) and convert faster than most inbound channels.
             </li>
             <li>
-              Formalize these motions into SLA or playboods (emial sequencing, call cadencess, etc.) to preserve performance as volume scales.
+              Formalize these motions into SLA or playbooks (email sequencing, call cadencess, etc.) to preserve performance as volume scales.
             </li>
             <li>
               Reduce dependency on a small subset of high-performing deal owners by stanadardizing best practices from Former AEs / Current Managers and Leadership.

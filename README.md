@@ -1,6 +1,6 @@
 
 <h1 align="center">SaaS Sales Operations Analysis</h1>
-<table align="center">
+<table align="center" width="100%">
   <tr>
     <td width="1440">
       <h2 align="center">Client Background</h2>

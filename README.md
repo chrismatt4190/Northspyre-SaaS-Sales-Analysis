@@ -15,8 +15,10 @@ Northspyre shared over a dataset that represents their end-to-end B2B sales pipe
          </p>
 Reporting to Northspyre’s Head of Sales and Head of Partnerships, an in-depth analysis was conducted using Northspyre’s deal-level sales pipeline data to evaluate commercial performance across lead sources, sales execution, and revenue outcomes. This comprehensive review provides actionable insights that Sales and Partnerships leaders can use to refine go-to-market strategy, improve pipeline efficiency, and strengthen revenue predictability. The key insights and recommendations presented in this discussion can be found below.
  </p>
-Northstar Metrics
-
+</table>
+<h2 align="center">Northstar Metrics</h1>
+<table align="center">
+  
 <table align="center" width="100%">
   <tr>
     <td valign="top">

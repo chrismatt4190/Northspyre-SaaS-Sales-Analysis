@@ -213,10 +213,10 @@ Reporting to Northspyre’s Head of Sales and Head of Partnerships, an in-depth 
   <tr>
     <h1 align="center">Lead Mix & Source Effectiveness</h1>
     <td width="1000">
-      <img width="500" src="https://github.com/user-attachments/assets/020d62cc-d116-4784-a8a4-5dcca4f97ce7" />
+      <img width="500" src="https://github.com/user-attachments/assets/c058f5b0-430a-4bf0-914c-dfaea3dffb96" />
     </td>
     <td width="1000" height="200">
-      <img width="500" src="https://github.com/user-attachments/assets/8c8213f8-cd0d-4f77-a00f-9d074f950a0c" />
+      <img width="500" src="https://github.com/user-attachments/assets/1a8d2b6e-7f58-40da-8db7-5a59dd84b1f2" />
     </td>
   </tr>
 </table>

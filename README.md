@@ -125,12 +125,6 @@ Reporting to Northspyre’s Head of Sales and Head of Partnerships, an in-depth 
               <li>
              Overall, revenue trends appear concentrated among a small group of experienced deal owners, reinforcing the importance of role clarity, capacity planning, and knowledge transfer to reduce reliance on a limited subset of high-impact contributors.
             </li>
-          </ul>
-        </li>
-        <li>
-          <strong>Key Takeaways & Recommendations</strong>
-          <ul>
-          </ul>
         </li>
       </ol>
     </td>

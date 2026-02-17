@@ -42,7 +42,7 @@ Reporting to Northspyre’s Head of Sales and Head of Partnerships, an in-depth 
       </ol>
     </td>
     <td width="460" valign="top">
-      <ol start="4">
+      <ol start="3">
         <li>
           <strong>Lead Mix & Source Effectiveness</strong>
           <ul>

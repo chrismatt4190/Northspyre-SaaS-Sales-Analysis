@@ -242,15 +242,16 @@ Northstar Metrics
     <td valign="top">
       <ol>
         <li>
-          <strong>Double Down on High-Intent Acquisition Channels</strong>
+          <strong>Double Down on High-Revenue, Sales-Led Outbound While Reducing Concentration Risk</strong>
           <ul>
             <li>
-              Prioritize MLT-hosted and community-partner events, which consistently
-              generate the fastest and highest-converting leads.
+              Outbound email and phone outreach drive the majority of closed-won revenue (~65% combined) and convert faster than most inbound channels.
             </li>
             <li>
-              Increase event cadence during historically high-performing periods,
-              particularly late summer and early fall.
+              Formalize these motions into SLA or playboods (emial sequencing, call cadencess, etc.) to preserve performance as volume scales.
+            </li>
+            <li>
+              Reduce dependency on a small subset of high-performing deal owners by stanadardizing best practices from Former AEs / Current Managers and Leadership.
             </li>
           </ul>
         </li>

@@ -22,7 +22,7 @@ Northstar Metrics
 
 <table align="center" width="100%">
   <tr>
-    <td width="460" valign="top">
+    <td valign="top">
       <ol>
         <li>
           <strong>Deal Volume & Revenue Performance</strong>
@@ -41,7 +41,7 @@ Northstar Metrics
         </li>
       </ol>
     </td>
-    <td width="460" valign="top">
+    <td valign="top">
       <ol start="3">
         <li>
           <strong>Lead Mix & Source Effectiveness</strong>

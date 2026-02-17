@@ -72,7 +72,7 @@ Reporting to Northspyre’s Head of Sales and Head of Partnerships, an in-depth 
     width="1000"
     height="800"
     alt="Screenshot 2026-01-15 at 4 53 12 PM"
-    src="https://github.com/user-attachments/assets/2d34c44a-33a4-48f6-a56c-4540c9b4a773" />
+     src="https://github.com/user-attachments/assets/8eb66e42-7eca-432d-b723-422b8f70a759" />
 </div>
      <!-- LEFT COLUMN -->
     <td width="460" valign="top">
@@ -139,7 +139,7 @@ Reporting to Northspyre’s Head of Sales and Head of Partnerships, an in-depth 
       <img width="500" src="https://github.com/user-attachments/assets/4bf84c30-11ed-42dc-8be6-6e2f800fd02f" />
     </td>
     <td >
-      <img width="500"src="https://github.com/user-attachments/assets/754a4fbc-f84b-4660-9a4e-6a7d371a8f89" />
+      <img width="500"src="https://github.com/user-attachments/assets/bf56b4e0-0587-4c49-bd5c-9bc4ff851951" />
     </td>
   </tr>
 </table>
@@ -174,7 +174,7 @@ Reporting to Northspyre’s Head of Sales and Head of Partnerships, an in-depth 
 <table align="center">
  <tr>
     <td width="500">
-      <img width="500" src="https://github.com/user-attachments/assets/16511552-60aa-4376-94ca-66e3a7ace84f" />
+      <img width="500" src="https://github.com/user-attachments/assets/76360c7b-becc-4fce-8d4c-c5d488b61991" />
 </table>
 <table>
   <tr>

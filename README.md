@@ -256,27 +256,24 @@ Northstar Metrics
           </ul>
         </li>
         <li>
-          <strong>Optimize for Speed-to-Conversion</strong>
+          <strong>Sacle Referral and Partner Channels to Improve Revenue Efficiency</strong>
           <ul>
             <li>
-              Implement a 10-day follow-up SLA for all qualified leads, with priority
-              routing for event- and referral-sourced leads.
+              Inbound referrals generate ~14% of revenue with fewer touchpoints than many marketing-led channels, indicating strong deal quality.
             </li>
             <li>
-              Use automated alerts to flag leads approaching the 10-day conversion window.
+              Align Partnerships more closely with Sleas by prioritizing referral leads for faster routing and higher-touch follow-up.
             </li>
           </ul>
         </li>
         <li>
-          <strong>Diagnose and Address the 2026 Decline</strong>
+          <strong>Expand Former Prospect Reengagement as a Fast-Close Pipeline Lever</strong>
           <ul>
             <li>
-              Review acquisition and follow-up changes from September through January
-              to identify drivers of the cycle-over-cycle decline.
+              Former prospect reengagement leads show the highest conversion rate (~58%) and fast close timelines, but contribute a smaller share of revenue.
             </li>
             <li>
-              Compare execution strategies from the high-performing 2025 cycle to
-              isolate what changed.
+              Build a systematic reengagement motion by tirggering reactiviation campaigns based on deal age, prior engagement, or product milestones.
             </li>
           </ul>
         </li>
